@@ -1,3 +1,5 @@
+<img width="895" height="610" alt="image" src="https://github.com/user-attachments/assets/dab15643-803c-4efd-a855-3403fde04ffa" />
+
 # ComfyUI-MemoryCleaner Usage Guide
 
 **Author**: eddy  
